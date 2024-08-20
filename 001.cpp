@@ -1,3 +1,6 @@
+// 001:简单的swap
+// A类中存在成员变量
+// 在函数swap中对A类进行引用来修改其中的成员变量
 #include <iostream>
 using namespace std;
 class A
